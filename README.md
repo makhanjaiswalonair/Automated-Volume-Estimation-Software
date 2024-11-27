@@ -97,7 +97,3 @@ Contributors
 - Makhan Jaiswal  
   Department of Civil Engineering, IIT Delhi  
   Supervisor: Prof. Sahil Garg  
-
-License
--------
-This project is licensed under the MIT License. See the LICENSE file for details.
